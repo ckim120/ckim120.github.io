@@ -24,6 +24,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![18814282_1342588362487603_3468395785344479508_n](https://user-images.githubusercontent.com/32144702/33866889-be24645a-debe-11e7-8799-78278f4d5b5d.jpg)
+
 [Facebook](https://www.facebook.com/michael.ce.kim?ref=bookmarks)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
