@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Chang Eui Kim
 
 You can use the [editor on GitHub](https://github.com/ckim120/ckim120.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# My name is Chang Eui Kim. I am from Korea.
+## 24 years old.
+### Math and Stat Major
 
 - Bulleted
 - List
@@ -25,6 +24,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Facebook](https://www.facebook.com/michael.ce.kim?ref=bookmarks)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
